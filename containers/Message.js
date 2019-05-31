@@ -7,7 +7,7 @@ class Message extends Component {
 
    render() {
        return (
-           <h3>Message{this.props.match.params.id}</h3>
+           <h3>Message</h3>
        );
    }
 }
